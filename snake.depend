@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1712087305 source:c:\users\family\documents\c++ projects\div4190224\snake\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<cstdlib>
+
+1712423368 source:c:\users\family\documents\c++ projects\snake\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<ctime>
+	<cstdlib>
+	<fstream>
+
